@@ -1,7 +1,7 @@
 # React Lab Exercise 12(A): Simulating a Simple SPA Using React
 
-## Name: Aravindan T
-## Roll no: 2305001003
+## Name: LOGESH S
+## Roll no: 2305001014
 ## Department: CSE
 
 ## AIM
